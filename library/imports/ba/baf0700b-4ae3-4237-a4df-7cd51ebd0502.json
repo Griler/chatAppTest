@@ -1,0 +1,20 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "avatar.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "img1": {
+      "__uuid__": "47b14475-c01f-4cac-9946-5d437ad05d10"
+    },
+    "img2": {
+      "__uuid__": "09fe6d41-fd44-4bc1-ac36-c61e0b53a284"
+    },
+    "img3": {
+      "__uuid__": "c3a88705-6502-4e11-acbd-1c6d92ef0cb3"
+    },
+    "img4": {
+      "__uuid__": "ba83edb6-e98f-46f6-b4ab-56c8d9a0ef60"
+    }
+  }
+}
