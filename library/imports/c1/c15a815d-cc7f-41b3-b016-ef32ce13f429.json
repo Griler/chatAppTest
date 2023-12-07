@@ -1,0 +1,32 @@
+{
+  "__type__": "cc.SpriteAtlas",
+  "_name": "chat.plist",
+  "_objFlags": 0,
+  "_native": "",
+  "_spriteFrames": {
+    "image_01": {
+      "__uuid__": "b4725d7c-d670-473a-ab1a-aca059459d71"
+    },
+    "image_02": {
+      "__uuid__": "41ee9eb8-7420-4ea4-88b7-e324912de890"
+    },
+    "image_03": {
+      "__uuid__": "e49c55fe-bb98-4cc1-a0c0-a196ca3c8dec"
+    },
+    "image_04": {
+      "__uuid__": "b6fe92e4-3178-4cb4-bfaf-1c92b9665531"
+    },
+    "image_05": {
+      "__uuid__": "a19b913b-2a6e-4841-9620-43774df7c058"
+    },
+    "image_06": {
+      "__uuid__": "66da798d-3c44-4b7d-89a4-1b21c9e9d747"
+    },
+    "image_07": {
+      "__uuid__": "a10fd60e-d0c3-4060-b524-d96ae8d03e34"
+    },
+    "image_08": {
+      "__uuid__": "033b70c3-4d7e-4352-8f79-a81178cbb9c5"
+    }
+  }
+}

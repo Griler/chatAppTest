@@ -45,8 +45,6 @@ cc.Class({
             this.jsonString = JSON.stringify(this.playerData);
             cc.log(this.jsonString);
             cc.sys.localStorage.setItem('playerData', this.jsonString);
-            this.socket = io('http://localhost:4000');
-            this.socket.emit("playerData",{message:this.jsonString});
             const chatRoom = this.node.parent.parent.getChildByName("ChatRoom");
             chatRoom.active = true;
             this.node.parent.active = false;

@@ -12,35 +12,30 @@ cc.Class({
     extends: cc.Component,
 
     properties: {
-        avatar:cc.Sprite,
-        nameUser:cc.Label,
-        atlasImg:cc.SpriteAtlas
+        avatar: cc.Sprite,
+        nameUser: cc.Label,
+        atlasImg: cc.SpriteAtlas
     },
 
     // LIFE-CYCLE CALLBACKS:
 
     onLoad() {
-        //Kết nối với máy chủ Socket.IO
-        this.socket = io('http://localhost:4000');
-        // Bắt sự kiện khi kết nối thành công
-        this.socket.on('connect', () => {
-            cc.log('Connected to server');
-        });
-        this.socket.on('userData', (e) => {
-            this.userData = JSON.parse(e.message);
-            cc.log(this.userData);
-            this.setAvatarName(this.userData.name,this.userData.imgName)
-        });
+        let jsonString = cc.sys.localStorage.getItem("playerData")
+        this.userData = JSON.parse(jsonString);
+        cc.log(this.userData);
+        this.setAvatarName(this.userData.name, this.userData.imgName)
     },
-    start () {
+    start() {
     },
-    setAvatarName:function (nameUser,imgName) {
+    setAvatarName: function (nameUser, imgName) {
         //cc.log(this.avatar.imageAtlas);
+        //if (socketId !== this.socket.id) return;
         for (let x in this.atlasImg.getSpriteFrames()) {
             if (this.atlasImg.getSpriteFrames()[x].name === imgName) {
                 this.avatar.spriteFrame = this.atlasImg.getSpriteFrames()[x];
             }
         }
         this.nameUser.string = nameUser;
-    }
+    },
+
 });

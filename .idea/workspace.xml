@@ -4,7 +4,42 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1c103eb-fb99-4587-8cb3-3d37a5dac195" name="Changes" comment="" />
+    <list default="true" id="b1c103eb-fb99-4587-8cb3-3d37a5dac195" name="Changes" comment="Init Commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Prefab/chatTextLayout.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Prefab/chatTextLayout.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Scene/Untitled.fire" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Scene/Untitled.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/ChatForm/ChatRoomSocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Script/ChatForm/ChatRoomSocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/ChatForm/ReceiveChatManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/ChatForm/ReceiveChatManager.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/ChatForm/SendChatManager.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Script/ChatForm/RoomChatManager.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/ChatForm/SendChatManager.js.meta" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/Script/LoginForm/LoginForm.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/Script/LoginForm/LoginForm.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/UI/UiTool.plist" beforeDir="false" afterPath="$PROJECT_DIR$/assets/UI/UiTool.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/UI/avatar.plist" beforeDir="false" afterPath="$PROJECT_DIR$/assets/UI/avatar.plist" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/3f/3f2d1300-8ae7-40b6-b94e-196c806ee612.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/3f/3f2d1300-8ae7-40b6-b94e-196c806ee612.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/72/72ef3f0a-ee01-49b1-8b5d-2c8bd718f8e1.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/72/72ef3f0a-ee01-49b1-8b5d-2c8bd718f8e1.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/89/894964ec-51b3-4e8d-a175-8c0e3bce72c7.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/89/894964ec-51b3-4e8d-a175-8c0e3bce72c7.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/89/894964ec-51b3-4e8d-a175-8c0e3bce72c7.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/89/894964ec-51b3-4e8d-a175-8c0e3bce72c7.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/ad/ad105187-f1b7-4e05-a1e5-6efd93826eb8.js" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/ad/ad105187-f1b7-4e05-a1e5-6efd93826eb8.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/ad/ad105187-f1b7-4e05-a1e5-6efd93826eb8.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/ad/ad105187-f1b7-4e05-a1e5-6efd93826eb8.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/e3/e34c1167-9483-4634-968c-916510c608ab.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/imports/e3/e34c1167-9483-4634-968c-916510c608ab.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/e6/e6a3ae0f-3284-4fc8-961a-c7f462199d76.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/imports/e6/e6a3ae0f-3284-4fc8-961a-c7f462199d76.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/library/uuid-to-mtime.json" beforeDir="false" afterPath="$PROJECT_DIR$/library/uuid-to-mtime.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/layout.windows.json" beforeDir="false" afterPath="$PROJECT_DIR$/local/layout.windows.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/logs/project.log" beforeDir="false" afterPath="$PROJECT_DIR$/local/logs/project.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/local/node-tree-state.json" beforeDir="false" afterPath="$PROJECT_DIR$/local/node-tree-state.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project.json" beforeDir="false" afterPath="$PROJECT_DIR$/project.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefab/chatTextLayout.prefab" beforeDir="false" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Prefab/chatTextLayout.prefab" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/Untitled.fire" beforeDir="false" afterPath="$PROJECT_DIR$/temp/BackupAssets/assets/Scene/Untitled.fire" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ChatRoomSocket.js" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ChatRoomSocket.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ChatRoomSocket.js.map" beforeDir="false" afterPath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ChatRoomSocket.js.map" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/SendChatManager.js" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/temp/quick-scripts/assets/Script/ChatForm/SendChatManager.js.map" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +52,7 @@
   &quot;associatedIndex&quot;: 0
 }</component>
   <component name="ProjectId" id="2Z9Nm5k4CkbNNgI2mvZVLzx4SUA" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,6 +69,7 @@
     "node.js.selected.package.eslint": "(autodetect)",
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
     "ts.external.directory.path": "/Applications/WebStorm.app/Contents/plugins/javascript-impl/jsLanguageServicesImpl/external",
     "vue.rearranger.settings.migration": "true"
   }
@@ -47,10 +84,26 @@
       <updated>1701830491124</updated>
       <workItem from="1701830492621" duration="7255000" />
       <workItem from="1701857793890" duration="161000" />
+      <workItem from="1701857963122" duration="3041000" />
+      <workItem from="1701928005616" duration="3149000" />
+      <workItem from="1701931650553" duration="10037000" />
     </task>
+    <task id="LOCAL-00001" summary="Init Commit">
+      <option name="closed" value="true" />
+      <created>1701859530050</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1701859530050</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Init Commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Init Commit" />
   </component>
 </project>

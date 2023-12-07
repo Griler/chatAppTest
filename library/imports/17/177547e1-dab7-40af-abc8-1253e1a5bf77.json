@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "background-dep-ngau-800x571",
+    "texture": "50ae3b5d-cdb6-4ef1-bbd1-ef286cfc6545",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      800,
+      571
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      800,
+      571
+    ],
+    "capInsets": [
+      0,
+      0,
+      0,
+      0
+    ]
+  }
+}

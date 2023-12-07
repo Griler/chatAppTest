@@ -1,0 +1,28 @@
+{
+  "__type__": "cc.SpriteFrame",
+  "content": {
+    "name": "roomchat_01",
+    "texture": "e337266f-2825-4ad6-8b97-0f1c20014a08",
+    "atlas": "",
+    "rect": [
+      0,
+      0,
+      182,
+      304
+    ],
+    "offset": [
+      0,
+      0
+    ],
+    "originalSize": [
+      182,
+      304
+    ],
+    "capInsets": [
+      60,
+      47,
+      52,
+      67
+    ]
+  }
+}

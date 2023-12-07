@@ -1,13 +1,12 @@
 {
   "version": "1.1.1",
   "windows": {
-    "worker": {},
     "main": {
       "main": true,
       "url": "app://editor/index.html",
       "windowType": "dockable",
-      "x": 128,
-      "y": 92,
+      "x": 44,
+      "y": 86,
       "width": 1280,
       "height": 720,
       "layout": {
@@ -65,7 +64,7 @@
                 "width": 668
               },
               {
-                "active": 0,
+                "active": 2,
                 "children": [
                   "console",
                   "timeline",
@@ -105,7 +104,7 @@
         "scene"
       ]
     },
-    "window-1701835159749": {
+    "window-1701942566967": {
       "main": false,
       "url": "unpack://static/window.html",
       "windowType": "dockable",
