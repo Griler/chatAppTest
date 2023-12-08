@@ -2,7 +2,7 @@
 cc._RF.push(module, '7a067hKIEJHaKxfMn4Id7Hw', 'RoomChatManager');
 // Script/ChatForm/RoomChatManager.js
 
-'use strict';
+"use strict";
 
 // Learn cc.Class:
 //  - [Chinese] https://docs.cocos.com/creator/manual/zh/scripting/class.html
@@ -13,7 +13,7 @@ cc._RF.push(module, '7a067hKIEJHaKxfMn4Id7Hw', 'RoomChatManager');
 // Learn life-cycle callbacks:
 //  - [Chinese] https://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] https://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
-var io = require('socket.io-client');
+var io = require('Test');
 var constants = require("constants");
 cc.Class({
     extends: cc.Component,
@@ -32,8 +32,7 @@ cc.Class({
     onLoad: function onLoad() {
         var _this = this;
 
-        this.socket = io('http://localhost:4000');
-        cc.log(this.socket.id);
+        this.socket = io.createSoketIo();
         this.wordsInMessage;
         this.data = {
             imgNameData: "",
@@ -75,7 +74,7 @@ cc.Class({
                 {
                     var labelNode = cc.instantiate(this.labelPrefab);
                     var labelComponent = labelNode.getComponent(cc.Label);
-                    labelComponent.string = this.wordsInMessage[index] + ' ';
+                    labelComponent.string = this.wordsInMessage[index] + " ";
                     labelNode.position = cc.v2(150, 0);
                     labelNode.angle = cc.v2(0, 0);
                     labelNode.setParent(chatTextNode.getChildByName("ChatString").getChildByName("chatText"));
@@ -100,7 +99,7 @@ cc.Class({
                 {
                     var labelNode = cc.instantiate(this.labelPrefab);
                     var labelComponent = labelNode.getComponent(cc.Label);
-                    labelComponent.string = this.wordsInMessage[index] + ' ';
+                    labelComponent.string = this.wordsInMessage[index] + " ";
                     labelNode.position = cc.v2(150, 0);
                     labelNode.angle = cc.v2(0, 0);
                     labelNode.setParent(chatTextNode.getChildByName("ChatString").getChildByName("chatText"));

@@ -1,0 +1,1281 @@
+{
+  "mtimes": {
+    "937b2529-8283-454c-a4ef-4e89a1d85e36": {
+      "assetMtime": 1701762739970,
+      "metaMtime": 1701830045692
+    },
+    "033b70c3-4d7e-4352-8f79-a81178cbb9c5": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427": {
+      "assetMtime": 1701916356027,
+      "metaMtime": 1701916356211
+    },
+    "09fe6d41-fd44-4bc1-ac36-c61e0b53a284": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356132
+    },
+    "5d55575d-a7dc-479c-b6e3-fa989791626e": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356128
+    },
+    "0bc6b0bb-a2c8-468a-815e-df41d1169bac": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "f63a7fa2-f120-41ee-801d-8e626c37f6a3": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916356202
+    },
+    "10dcef2f-2b46-4268-99b7-c8c825759977": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "14105259-5803-4e5f-a1e0-010f44bdfdc3": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "91f5a288-8d2c-44bc-9d05-b2649535385a": {
+      "assetMtime": 1701916356029,
+      "metaMtime": 1701916356129
+    },
+    "177547e1-dab7-40af-abc8-1253e1a5bf77": {
+      "assetMtime": 1701943772234,
+      "metaMtime": 1701943786400
+    },
+    "50ae3b5d-cdb6-4ef1-bbd1-ef286cfc6545": {
+      "assetMtime": 1701943772234,
+      "metaMtime": 1701943786400
+    },
+    "2326956c-214f-49bb-a5aa-ad4b43c5ccd2": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "31dfa404-0408-4629-86b1-c19d94bb0745": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "331ad1de-76e2-4926-aa12-fd92d94c31b1": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "354fe32a-e92b-405b-9806-45c585ecc9c7": {
+      "assetMtime": 1701942527118,
+      "metaMtime": 1701942588312
+    },
+    "e337266f-2825-4ad6-8b97-0f1c20014a08": {
+      "assetMtime": 1701942527118,
+      "metaMtime": 1701942588312
+    },
+    "37cfd392-365a-4b80-9593-a522fd4c0679": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "40dbfca6-3005-4c88-bc73-989fa5fa3b56": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "41ee9eb8-7420-4ea4-88b7-e324912de890": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "44f05471-4144-4de8-a7c2-42c9fa756b78": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "47b14475-c01f-4cac-9946-5d437ad05d10": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356132
+    },
+    "62a8e742-1b02-468f-9fb9-442718909c4c": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "66da798d-3c44-4b7d-89a4-1b21c9e9d747": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "6bda3c20-597f-4ee0-9371-37702559f338": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "702c9efe-9ed8-4b05-9af5-c3b56f93f737": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "72d30941-ebe6-4406-b24c-ba34dadd7424": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "7d5e362f-7147-419d-823e-a8b0763229f9": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "831c3fc9-5fdd-4cc2-93a3-d6a6e19267fd": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "93f2d251-b5ef-4c86-832b-c6d0583cb69d": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "a10f9a6e-7ee0-4056-859e-4c77c405c9f0": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "a10fd60e-d0c3-4060-b524-d96ae8d03e34": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "a19b913b-2a6e-4841-9620-43774df7c058": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "b3ee661b-ac1e-494d-a2aa-ae2f2f10ad9d": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "b4725d7c-d670-473a-ab1a-aca059459d71": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "b6fe92e4-3178-4cb4-bfaf-1c92b9665531": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "b7469472-3baf-408f-a45a-e053e3d60e5f": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "b7672e10-815a-4c47-b144-4009b8dfd98f": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "ba37db2b-917b-40b8-9a45-61bc38c76884": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "ba83edb6-e98f-46f6-b4ab-56c8d9a0ef60": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356132
+    },
+    "c3a88705-6502-4e11-acbd-1c6d92ef0cb3": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356132
+    },
+    "c80726cd-f9dc-46c9-9b62-8db9b39b4c48": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "d122bc73-c930-4edf-bf43-48662780a8bb": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701931356151
+    },
+    "d54bbcc0-e466-467a-8b99-a54f21e2c475": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "de901077-6b1a-49de-aaf4-f20b8a0f008c": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "e40f9446-b999-4ead-9088-1bf07a12d449": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "e49c55fe-bb98-4cc1-a0c0-a196ca3c8dec": {
+      "assetMtime": 1701916356025,
+      "metaMtime": 1701916470711
+    },
+    "e8fc0d83-48eb-4c79-b3ec-78d6bd8a476e": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "ecfff619-af73-4833-a468-f59090db494c": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "f22b8754-64f8-4ff6-9200-916844ba7e97": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    },
+    "f27a38ff-6706-4f2b-9d7a-b7cac3b374b8": {
+      "assetMtime": 1701916356028,
+      "metaMtime": 1701916356147
+    }
+  },
+  "result": {
+    "name": "AutoAtlas",
+    "width": 1024,
+    "height": 1024,
+    "ver": "1.2.0",
+    "uuid": "937b2529-8283-454c-a4ef-4e89a1d85e36",
+    "maxWidth": 1024,
+    "maxHeight": 1024,
+    "padding": 2,
+    "allowRotation": true,
+    "forceSquared": false,
+    "powerOfTwo": false,
+    "algorithm": "MaxRects",
+    "format": "png",
+    "quality": 80,
+    "contourBleed": true,
+    "paddingBleed": true,
+    "filterUnused": false,
+    "platformSettings": {},
+    "subMetas": {},
+    "bleed": 1,
+    "atlases": [
+      {
+        "files": [
+          {
+            "name": "background-dep-ngau-800x571",
+            "uuid": "177547e1-dab7-40af-abc8-1253e1a5bf77",
+            "textureUuid": "50ae3b5d-cdb6-4ef1-bbd1-ef286cfc6545",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_5.png",
+            "trim": {
+              "x": 3,
+              "y": 3,
+              "width": 800,
+              "height": 571,
+              "rotatedWidth": 800,
+              "rotatedHeight": 571
+            },
+            "rawWidth": 800,
+            "rawHeight": 571,
+            "width": 806,
+            "height": 577,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/50/50ae3b5d-cdb6-4ef1-bbd1-ef286cfc6545.jpeg",
+            "x": 0,
+            "y": 0,
+            "rotatedWidth": 806,
+            "rotatedHeight": 577
+          },
+          {
+            "name": "ui_03",
+            "uuid": "40dbfca6-3005-4c88-bc73-989fa5fa3b56",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_11.png",
+            "trim": {
+              "x": 809,
+              "y": 3,
+              "width": 183,
+              "height": 50,
+              "rotatedWidth": 183,
+              "rotatedHeight": 50
+            },
+            "rawWidth": 183,
+            "rawHeight": 50,
+            "width": 189,
+            "height": 56,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 806,
+            "y": 0,
+            "rotatedWidth": 189,
+            "rotatedHeight": 56
+          },
+          {
+            "name": "roomchat_01",
+            "uuid": "354fe32a-e92b-405b-9806-45c585ecc9c7",
+            "textureUuid": "e337266f-2825-4ad6-8b97-0f1c20014a08",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_9.png",
+            "trim": {
+              "x": 809,
+              "y": 59,
+              "width": 182,
+              "height": 304,
+              "rotatedWidth": 182,
+              "rotatedHeight": 304
+            },
+            "rawWidth": 182,
+            "rawHeight": 304,
+            "width": 188,
+            "height": 310,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/e3/e337266f-2825-4ad6-8b97-0f1c20014a08.png",
+            "x": 806,
+            "y": 56,
+            "rotatedWidth": 188,
+            "rotatedHeight": 310
+          },
+          {
+            "name": "Ui_06",
+            "uuid": "10dcef2f-2b46-4268-99b7-c8c825759977",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_3.png",
+            "trim": {
+              "x": 809,
+              "y": 369,
+              "width": 179,
+              "height": 66,
+              "rotatedWidth": 179,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 179,
+            "rawHeight": 66,
+            "width": 185,
+            "height": 72,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 806,
+            "y": 366,
+            "rotatedWidth": 185,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "image_06",
+            "uuid": "66da798d-3c44-4b7d-89a4-1b21c9e9d747",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_16.png",
+            "trim": {
+              "x": 809,
+              "y": 441,
+              "width": 179,
+              "height": 66,
+              "rotatedWidth": 179,
+              "rotatedHeight": 66
+            },
+            "rawWidth": 179,
+            "rawHeight": 66,
+            "width": 185,
+            "height": 72,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 806,
+            "y": 438,
+            "rotatedWidth": 185,
+            "rotatedHeight": 72
+          },
+          {
+            "name": "ui_12",
+            "uuid": "ecfff619-af73-4833-a468-f59090db494c",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_41.png",
+            "trim": {
+              "x": 809,
+              "y": 513,
+              "width": 138,
+              "height": 166,
+              "rotatedWidth": 166,
+              "rotatedHeight": 138
+            },
+            "rawWidth": 138,
+            "rawHeight": 166,
+            "width": 144,
+            "height": 172,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 806,
+            "y": 510,
+            "rotated": true,
+            "rotatedWidth": 172,
+            "rotatedHeight": 144
+          },
+          {
+            "name": "ui_13",
+            "uuid": "b7469472-3baf-408f-a45a-e053e3d60e5f",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987879_image_29.png",
+            "trim": {
+              "x": 981,
+              "y": 513,
+              "width": 124,
+              "height": 12,
+              "rotatedWidth": 12,
+              "rotatedHeight": 124
+            },
+            "rawWidth": 124,
+            "rawHeight": 12,
+            "width": 130,
+            "height": 18,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 978,
+            "y": 510,
+            "rotated": true,
+            "rotatedWidth": 18,
+            "rotatedHeight": 130
+          },
+          {
+            "name": "ui_05",
+            "uuid": "2326956c-214f-49bb-a5aa-ad4b43c5ccd2",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_6.png",
+            "trim": {
+              "x": 3,
+              "y": 657,
+              "width": 299,
+              "height": 227,
+              "rotatedWidth": 227,
+              "rotatedHeight": 299
+            },
+            "rawWidth": 299,
+            "rawHeight": 227,
+            "width": 305,
+            "height": 233,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 0,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 233,
+            "rotatedHeight": 305
+          },
+          {
+            "name": "ui_02",
+            "uuid": "f22b8754-64f8-4ff6-9200-916844ba7e97",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_42.png",
+            "trim": {
+              "x": 3,
+              "y": 580,
+              "width": 261,
+              "height": 71,
+              "rotatedWidth": 261,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 261,
+            "rawHeight": 71,
+            "width": 267,
+            "height": 77,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 0,
+            "y": 577,
+            "rotatedWidth": 267,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "ui_01",
+            "uuid": "a10f9a6e-7ee0-4056-859e-4c77c405c9f0",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_23.png",
+            "trim": {
+              "x": 3,
+              "y": 962,
+              "width": 187,
+              "height": 31,
+              "rotatedWidth": 187,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 187,
+            "rawHeight": 31,
+            "width": 193,
+            "height": 37,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 0,
+            "y": 959,
+            "rotatedWidth": 193,
+            "rotatedHeight": 37
+          },
+          {
+            "name": "ui_15",
+            "uuid": "14105259-5803-4e5f-a1e0-010f44bdfdc3",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_4.png",
+            "trim": {
+              "x": 196,
+              "y": 962,
+              "width": 31,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 31,
+            "rawHeight": 29,
+            "width": 37,
+            "height": 35,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 193,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 37
+          },
+          {
+            "name": "ui_22",
+            "uuid": "de901077-6b1a-49de-aaf4-f20b8a0f008c",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_37.png",
+            "trim": {
+              "x": 231,
+              "y": 962,
+              "width": 31,
+              "height": 29,
+              "rotatedWidth": 29,
+              "rotatedHeight": 31
+            },
+            "rawWidth": 31,
+            "rawHeight": 29,
+            "width": 37,
+            "height": 35,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 228,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 35,
+            "rotatedHeight": 37
+          },
+          {
+            "name": "Ui_05",
+            "uuid": "93f2d251-b5ef-4c86-832b-c6d0583cb69d",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_22.png",
+            "trim": {
+              "x": 236,
+              "y": 657,
+              "width": 223,
+              "height": 53,
+              "rotatedWidth": 53,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 53,
+            "width": 229,
+            "height": 59,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 233,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 59,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "image_02",
+            "uuid": "41ee9eb8-7420-4ea4-88b7-e324912de890",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_12.png",
+            "trim": {
+              "x": 270,
+              "y": 580,
+              "width": 156,
+              "height": 71,
+              "rotatedWidth": 156,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 156,
+            "rawHeight": 71,
+            "width": 162,
+            "height": 77,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 267,
+            "y": 577,
+            "rotatedWidth": 162,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "Ui_01",
+            "uuid": "c80726cd-f9dc-46c9-9b62-8db9b39b4c48",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987880_image_34.png",
+            "trim": {
+              "x": 236,
+              "y": 886,
+              "width": 192,
+              "height": 70,
+              "rotatedWidth": 192,
+              "rotatedHeight": 70
+            },
+            "rawWidth": 192,
+            "rawHeight": 70,
+            "width": 198,
+            "height": 76,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 233,
+            "y": 883,
+            "rotatedWidth": 198,
+            "rotatedHeight": 76
+          },
+          {
+            "name": "image_01",
+            "uuid": "b4725d7c-d670-473a-ab1a-aca059459d71",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_27.png",
+            "trim": {
+              "x": 295,
+              "y": 657,
+              "width": 223,
+              "height": 53,
+              "rotatedWidth": 53,
+              "rotatedHeight": 223
+            },
+            "rawWidth": 223,
+            "rawHeight": 53,
+            "width": 229,
+            "height": 59,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 292,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 59,
+            "rotatedHeight": 229
+          },
+          {
+            "name": "ui_09",
+            "uuid": "331ad1de-76e2-4926-aa12-fd92d94c31b1",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_8.png",
+            "trim": {
+              "x": 266,
+              "y": 962,
+              "width": 29,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 25,
+            "width": 35,
+            "height": 31,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 263,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "ui_21",
+            "uuid": "72d30941-ebe6-4406-b24c-ba34dadd7424",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_19.png",
+            "trim": {
+              "x": 297,
+              "y": 962,
+              "width": 29,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 25,
+            "width": 35,
+            "height": 31,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 294,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "ui_14",
+            "uuid": "831c3fc9-5fdd-4cc2-93a3-d6a6e19267fd",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_21.png",
+            "trim": {
+              "x": 328,
+              "y": 962,
+              "width": 29,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 25,
+            "width": 35,
+            "height": 31,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 325,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "ui_10",
+            "uuid": "e40f9446-b999-4ead-9088-1bf07a12d449",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_38.png",
+            "trim": {
+              "x": 359,
+              "y": 962,
+              "width": 29,
+              "height": 25,
+              "rotatedWidth": 25,
+              "rotatedHeight": 29
+            },
+            "rawWidth": 29,
+            "rawHeight": 25,
+            "width": 35,
+            "height": 31,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 356,
+            "y": 959,
+            "rotated": true,
+            "rotatedWidth": 31,
+            "rotatedHeight": 35
+          },
+          {
+            "name": "ui_06",
+            "uuid": "b3ee661b-ac1e-494d-a2aa-ae2f2f10ad9d",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_26.png",
+            "trim": {
+              "x": 390,
+              "y": 962,
+              "width": 44,
+              "height": 27,
+              "rotatedWidth": 44,
+              "rotatedHeight": 27
+            },
+            "rawWidth": 44,
+            "rawHeight": 27,
+            "width": 50,
+            "height": 33,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 387,
+            "y": 959,
+            "rotatedWidth": 50,
+            "rotatedHeight": 33
+          },
+          {
+            "name": "image_03",
+            "uuid": "e49c55fe-bb98-4cc1-a0c0-a196ca3c8dec",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_39.png",
+            "trim": {
+              "x": 354,
+              "y": 657,
+              "width": 192,
+              "height": 70,
+              "rotatedWidth": 70,
+              "rotatedHeight": 192
+            },
+            "rawWidth": 192,
+            "rawHeight": 70,
+            "width": 198,
+            "height": 76,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 351,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 76,
+            "rotatedHeight": 198
+          },
+          {
+            "name": "ui_07",
+            "uuid": "ba37db2b-917b-40b8-9a45-61bc38c76884",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987879_image_31.png",
+            "trim": {
+              "x": 354,
+              "y": 855,
+              "width": 20,
+              "height": 21,
+              "rotatedWidth": 20,
+              "rotatedHeight": 21
+            },
+            "rawWidth": 20,
+            "rawHeight": 21,
+            "width": 26,
+            "height": 27,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 351,
+            "y": 852,
+            "rotatedWidth": 26,
+            "rotatedHeight": 27
+          },
+          {
+            "name": "ui_04",
+            "uuid": "e8fc0d83-48eb-4c79-b3ec-78d6bd8a476e",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_40.png",
+            "trim": {
+              "x": 430,
+              "y": 657,
+              "width": 191,
+              "height": 88,
+              "rotatedWidth": 88,
+              "rotatedHeight": 191
+            },
+            "rawWidth": 191,
+            "rawHeight": 88,
+            "width": 197,
+            "height": 94,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 427,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 94,
+            "rotatedHeight": 197
+          },
+          {
+            "name": "Ui_03",
+            "uuid": "702c9efe-9ed8-4b05-9af5-c3b56f93f737",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_18.png",
+            "trim": {
+              "x": 432,
+              "y": 580,
+              "width": 156,
+              "height": 71,
+              "rotatedWidth": 156,
+              "rotatedHeight": 71
+            },
+            "rawWidth": 156,
+            "rawHeight": 71,
+            "width": 162,
+            "height": 77,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 429,
+            "y": 577,
+            "rotatedWidth": 162,
+            "rotatedHeight": 77
+          },
+          {
+            "name": "ui_17",
+            "uuid": "d54bbcc0-e466-467a-8b99-a54f21e2c475",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987880_image_36.png",
+            "trim": {
+              "x": 440,
+              "y": 854,
+              "width": 135,
+              "height": 51,
+              "rotatedWidth": 51,
+              "rotatedHeight": 135
+            },
+            "rawWidth": 135,
+            "rawHeight": 51,
+            "width": 141,
+            "height": 57,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 437,
+            "y": 851,
+            "rotated": true,
+            "rotatedWidth": 57,
+            "rotatedHeight": 141
+          },
+          {
+            "name": "image_08",
+            "uuid": "033b70c3-4d7e-4352-8f79-a81178cbb9c5",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987871_image_0.png",
+            "trim": {
+              "x": 594,
+              "y": 580,
+              "width": 166,
+              "height": 53,
+              "rotatedWidth": 166,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 166,
+            "rawHeight": 53,
+            "width": 172,
+            "height": 59,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 591,
+            "y": 577,
+            "rotatedWidth": 172,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "ui_19",
+            "uuid": "6bda3c20-597f-4ee0-9371-37702559f338",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_17.png",
+            "trim": {
+              "x": 766,
+              "y": 580,
+              "width": 58,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 35,
+            "width": 64,
+            "height": 41,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 763,
+            "y": 577,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "Ui_04",
+            "uuid": "d122bc73-c930-4edf-bf43-48662780a8bb",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987880_image_35.png",
+            "trim": {
+              "x": 594,
+              "y": 639,
+              "width": 166,
+              "height": 53,
+              "rotatedWidth": 166,
+              "rotatedHeight": 53
+            },
+            "rawWidth": 166,
+            "rawHeight": 53,
+            "width": 172,
+            "height": 59,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 591,
+            "y": 636,
+            "rotatedWidth": 172,
+            "rotatedHeight": 59
+          },
+          {
+            "name": "ui_18",
+            "uuid": "7d5e362f-7147-419d-823e-a8b0763229f9",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_20.png",
+            "trim": {
+              "x": 766,
+              "y": 644,
+              "width": 58,
+              "height": 35,
+              "rotatedWidth": 35,
+              "rotatedHeight": 58
+            },
+            "rawWidth": 58,
+            "rawHeight": 35,
+            "width": 64,
+            "height": 41,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 763,
+            "y": 641,
+            "rotated": true,
+            "rotatedWidth": 41,
+            "rotatedHeight": 64
+          },
+          {
+            "name": "image_07",
+            "uuid": "a10fd60e-d0c3-4060-b524-d96ae8d03e34",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_24.png",
+            "trim": {
+              "x": 524,
+              "y": 657,
+              "width": 161,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 161
+            },
+            "rawWidth": 161,
+            "rawHeight": 57,
+            "width": 167,
+            "height": 63,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 521,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 167
+          },
+          {
+            "name": "Ui_02",
+            "uuid": "b7672e10-815a-4c47-b144-4009b8dfd98f",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987879_image_30.png",
+            "trim": {
+              "x": 524,
+              "y": 824,
+              "width": 161,
+              "height": 57,
+              "rotatedWidth": 57,
+              "rotatedHeight": 161
+            },
+            "rawWidth": 161,
+            "rawHeight": 57,
+            "width": 167,
+            "height": 63,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 521,
+            "y": 821,
+            "rotated": true,
+            "rotatedWidth": 63,
+            "rotatedHeight": 167
+          },
+          {
+            "name": "Ui_08",
+            "uuid": "62a8e742-1b02-468f-9fb9-442718909c4c",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_15.png",
+            "trim": {
+              "x": 587,
+              "y": 698,
+              "width": 153,
+              "height": 65,
+              "rotatedWidth": 153,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 153,
+            "rawHeight": 65,
+            "width": 159,
+            "height": 71,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 584,
+            "y": 695,
+            "rotatedWidth": 159,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "image_05",
+            "uuid": "a19b913b-2a6e-4841-9620-43774df7c058",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987878_image_25.png",
+            "trim": {
+              "x": 807,
+              "y": 657,
+              "width": 153,
+              "height": 65,
+              "rotatedWidth": 153,
+              "rotatedHeight": 65
+            },
+            "rawWidth": 153,
+            "rawHeight": 65,
+            "width": 159,
+            "height": 71,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 804,
+            "y": 654,
+            "rotatedWidth": 159,
+            "rotatedHeight": 71
+          },
+          {
+            "name": "ui_08",
+            "uuid": "44f05471-4144-4de8-a7c2-42c9fa756b78",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_13.png",
+            "trim": {
+              "x": 966,
+              "y": 657,
+              "width": 43,
+              "height": 27,
+              "rotatedWidth": 27,
+              "rotatedHeight": 43
+            },
+            "rawWidth": 43,
+            "rawHeight": 27,
+            "width": 49,
+            "height": 33,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 963,
+            "y": 654,
+            "rotated": true,
+            "rotatedWidth": 33,
+            "rotatedHeight": 49
+          },
+          {
+            "name": "ui_20",
+            "uuid": "31dfa404-0408-4629-86b1-c19d94bb0745",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_7.png",
+            "trim": {
+              "x": 746,
+              "y": 708,
+              "width": 47,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 49,
+            "width": 53,
+            "height": 55,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 743,
+            "y": 705,
+            "rotated": true,
+            "rotatedWidth": 55,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "Ui_07",
+            "uuid": "0bc6b0bb-a2c8-468a-815e-df41d1169bac",
+            "textureUuid": "f63a7fa2-f120-41ee-801d-8e626c37f6a3",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987876_image_2.png",
+            "trim": {
+              "x": 801,
+              "y": 728,
+              "width": 152,
+              "height": 75,
+              "rotatedWidth": 152,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 152,
+            "rawHeight": 75,
+            "width": 158,
+            "height": 81,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/f6/f63a7fa2-f120-41ee-801d-8e626c37f6a3.png",
+            "x": 798,
+            "y": 725,
+            "rotatedWidth": 158,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "ui_16",
+            "uuid": "37cfd392-365a-4b80-9593-a522fd4c0679",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_10.png",
+            "trim": {
+              "x": 746,
+              "y": 761,
+              "width": 47,
+              "height": 49,
+              "rotatedWidth": 49,
+              "rotatedHeight": 47
+            },
+            "rawWidth": 47,
+            "rawHeight": 49,
+            "width": 53,
+            "height": 55,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 743,
+            "y": 758,
+            "rotated": true,
+            "rotatedWidth": 55,
+            "rotatedHeight": 53
+          },
+          {
+            "name": "image_04",
+            "uuid": "b6fe92e4-3178-4cb4-bfaf-1c92b9665531",
+            "textureUuid": "86c2c6fc-f5a0-40e2-bc78-d1ab366e7427",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987879_image_28.png",
+            "trim": {
+              "x": 587,
+              "y": 769,
+              "width": 152,
+              "height": 75,
+              "rotatedWidth": 152,
+              "rotatedHeight": 75
+            },
+            "rawWidth": 152,
+            "rawHeight": 75,
+            "width": 158,
+            "height": 81,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/86/86c2c6fc-f5a0-40e2-bc78-d1ab366e7427.png",
+            "x": 584,
+            "y": 766,
+            "rotatedWidth": 158,
+            "rotatedHeight": 81
+          },
+          {
+            "name": "img2",
+            "uuid": "09fe6d41-fd44-4bc1-ac36-c61e0b53a284",
+            "textureUuid": "5d55575d-a7dc-479c-b6e3-fa989791626e",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987875_image_1.png",
+            "trim": {
+              "x": 587,
+              "y": 850,
+              "width": 89,
+              "height": 93,
+              "rotatedWidth": 89,
+              "rotatedHeight": 93
+            },
+            "rawWidth": 89,
+            "rawHeight": 93,
+            "width": 95,
+            "height": 99,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/5d/5d55575d-a7dc-479c-b6e3-fa989791626e.png",
+            "x": 584,
+            "y": 847,
+            "rotatedWidth": 95,
+            "rotatedHeight": 99
+          },
+          {
+            "name": "img1",
+            "uuid": "47b14475-c01f-4cac-9946-5d437ad05d10",
+            "textureUuid": "5d55575d-a7dc-479c-b6e3-fa989791626e",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987877_image_14.png",
+            "trim": {
+              "x": 682,
+              "y": 850,
+              "width": 89,
+              "height": 93,
+              "rotatedWidth": 89,
+              "rotatedHeight": 93
+            },
+            "rawWidth": 89,
+            "rawHeight": 93,
+            "width": 95,
+            "height": 99,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/5d/5d55575d-a7dc-479c-b6e3-fa989791626e.png",
+            "x": 679,
+            "y": 847,
+            "rotatedWidth": 95,
+            "rotatedHeight": 99
+          },
+          {
+            "name": "img4",
+            "uuid": "ba83edb6-e98f-46f6-b4ab-56c8d9a0ef60",
+            "textureUuid": "5d55575d-a7dc-479c-b6e3-fa989791626e",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987879_image_32.png",
+            "trim": {
+              "x": 777,
+              "y": 814,
+              "width": 89,
+              "height": 93,
+              "rotatedWidth": 89,
+              "rotatedHeight": 93
+            },
+            "rawWidth": 89,
+            "rawHeight": 93,
+            "width": 95,
+            "height": 99,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/5d/5d55575d-a7dc-479c-b6e3-fa989791626e.png",
+            "x": 774,
+            "y": 811,
+            "rotatedWidth": 95,
+            "rotatedHeight": 99
+          },
+          {
+            "name": "img3",
+            "uuid": "c3a88705-6502-4e11-acbd-1c6d92ef0cb3",
+            "textureUuid": "5d55575d-a7dc-479c-b6e3-fa989791626e",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987880_image_33.png",
+            "trim": {
+              "x": 872,
+              "y": 809,
+              "width": 89,
+              "height": 93,
+              "rotatedWidth": 93,
+              "rotatedHeight": 89
+            },
+            "rawWidth": 89,
+            "rawHeight": 93,
+            "width": 95,
+            "height": 99,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/5d/5d55575d-a7dc-479c-b6e3-fa989791626e.png",
+            "x": 869,
+            "y": 806,
+            "rotated": true,
+            "rotatedWidth": 99,
+            "rotatedHeight": 95
+          },
+          {
+            "name": "ui_11",
+            "uuid": "f27a38ff-6706-4f2b-9d7a-b7cac3b374b8",
+            "textureUuid": "91f5a288-8d2c-44bc-9d05-b2649535385a",
+            "path": "/Users/user/Cocos/testChat/temp/trimImages/spritesheet_js_1702009987881_image_43.png",
+            "trim": {
+              "x": 777,
+              "y": 913,
+              "width": 47,
+              "height": 49,
+              "rotatedWidth": 47,
+              "rotatedHeight": 49
+            },
+            "rawWidth": 47,
+            "rawHeight": 49,
+            "width": 53,
+            "height": 55,
+            "originalPath": "/Users/user/Cocos/testChat/library/imports/91/91f5a288-8d2c-44bc-9d05-b2649535385a.png",
+            "x": 774,
+            "y": 910,
+            "rotatedWidth": 53,
+            "rotatedHeight": 55
+          }
+        ],
+        "width": 996,
+        "height": 996,
+        "name": "AutoAtlas-1",
+        "imagePath": "/Users/user/Cocos/testChat/temp/TexturePacker/build/raw-assets/AutoAtlas.pac/AutoAtlas-1.png",
+        "compressd": {
+          "suffix": [
+            ".png"
+          ],
+          "imagePathNoExt": "/Users/user/Cocos/testChat/temp/TexturePacker/build/raw-assets/AutoAtlas.pac/compressed/AutoAtlas-1"
+        }
+      }
+    ],
+    "unpackedTextures": []
+  }
+}

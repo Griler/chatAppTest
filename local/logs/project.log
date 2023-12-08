@@ -1,154 +1,68 @@
-2023-12-07T06:50:16.177Z - normal: Load ~/.CocosCreator/settings.json
-2023-12-07T06:50:16.233Z - normal: Initializing Asset Database
-2023-12-07T06:50:16.235Z - normal: checking language setting...
-2023-12-07T06:50:16.235Z - normal: Language: en
-2023-12-07T06:50:16.916Z - success: preview server running at http://localhost:7456
-2023-12-07T06:50:16.929Z - success: protocol editor-framework registered
-2023-12-07T06:50:16.929Z - success: protocol app registered
-2023-12-07T06:50:16.929Z - success: protocol theme registered
-2023-12-07T06:50:16.929Z - success: protocol packages registered
-2023-12-07T06:50:16.929Z - success: protocol uuid registerred
-2023-12-07T06:50:16.929Z - success: protocol db registerred
-2023-12-07T06:50:16.930Z - success: protocol thumbnail registerred
-2023-12-07T06:50:16.930Z - success: protocol unpack registerred
-2023-12-07T06:50:16.930Z - success: protocol disable-commonjs registerred
-2023-12-07T06:50:18.569Z - normal: connected!
-2023-12-07T06:50:18.570Z - normal: Check project /Users/user/Cocos/testChat
-2023-12-07T06:50:18.572Z - normal: Initializing project /Users/user/Cocos/testChat
-2023-12-07T06:50:18.952Z - normal: Initializing Cocos2d
-2023-12-07T06:50:19.651Z - normal: Initializing engine extends
-2023-12-07T06:50:19.703Z - success: alipay-adapter loaded
-2023-12-07T06:50:19.719Z - success: asset-db-debugger loaded
-2023-12-07T06:50:19.720Z - success: baidu-adapter loaded
-2023-12-07T06:50:19.721Z - success: color-picker loaded
-2023-12-07T06:50:19.854Z - success: fb-audience-network loaded
-2023-12-07T06:50:19.906Z - success: fb-live-stream loaded
-2023-12-07T06:50:19.910Z - success: google-play-instant loaded
-2023-12-07T06:50:19.917Z - success: huawei-runtime loaded
-2023-12-07T06:50:20.152Z - success: cpk-publish loaded
-2023-12-07T06:50:20.154Z - success: jsb-adapter loaded
-2023-12-07T06:50:20.159Z - success: oppo-runtime loaded
-2023-12-07T06:50:20.165Z - success: package-manager loaded
-2023-12-07T06:50:20.297Z - success: qqplay-adapter loaded
-2023-12-07T06:50:20.299Z - success: runtime-dev-tools loaded
-2023-12-07T06:50:20.304Z - success: sdkbox loaded
-2023-12-07T06:50:20.308Z - success: tester loaded
-2023-12-07T06:50:20.311Z - success: ui-kit-preview-extra loaded
-2023-12-07T06:50:20.316Z - success: ui-kit-preview loaded
-2023-12-07T06:50:20.319Z - success: ui-kit loaded
-2023-12-07T06:50:20.324Z - success: vivo-runtime loaded
-2023-12-07T06:50:20.325Z - success: weapp-adapter loaded
-2023-12-07T06:50:20.325Z - success: xiaomi-adapter loaded
-2023-12-07T06:50:20.327Z - success: alipay-minigame loaded
-2023-12-07T06:50:20.361Z - success: assets loaded
-2023-12-07T06:50:20.364Z - success: builder loaded
-2023-12-07T06:50:20.631Z - success: cocos-services loaded
-2023-12-07T06:50:20.637Z - success: console loaded
-2023-12-07T06:50:20.670Z - success: fb-instant-games loaded
-2023-12-07T06:50:20.674Z - success: game-window loaded
-2023-12-07T06:50:20.675Z - success: google-instant-games loaded
-2023-12-07T06:50:20.682Z - success: hierarchy loaded
-2023-12-07T06:50:20.687Z - success: inspector loaded
-2023-12-07T06:50:20.688Z - success: keystore loaded
-2023-12-07T06:50:20.693Z - success: node-library loaded
-2023-12-07T06:50:20.694Z - success: package-asset loaded
-2023-12-07T06:50:20.695Z - success: preferences loaded
-2023-12-07T06:50:20.698Z - success: project-exporter loaded
-2023-12-07T06:50:20.702Z - success: project-importer loaded
-2023-12-07T06:50:20.705Z - success: project-settings loaded
-2023-12-07T06:50:20.710Z - success: scene loaded
-2023-12-07T06:50:20.711Z - success: simulator-debugger loaded
-2023-12-07T06:50:20.713Z - success: sprite-editor loaded
-2023-12-07T06:50:20.717Z - success: store loaded
-2023-12-07T06:50:20.724Z - success: timeline loaded
-2023-12-07T06:50:20.744Z - success: xiaomi-runtime loaded
-2023-12-07T06:50:21.960Z - normal: Loading packages
-2023-12-07T06:50:21.963Z - normal: Watching packages
-2023-12-07T06:50:22.078Z - normal: Run Application
-2023-12-07T07:29:29.193Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js, message: Compile error: SyntaxError: /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js: Unexpected token, expected , (19:10)
-  17 |     // LIFE-CYCLE CALLBACKS:
-  18 | 
-> 19 |     asyce onLoad() {
-     |           ^
-  20 |         this.socket = io('http://localhost:4000');
-  21 |         this.socket.on('connect', () => {
-  22 |             cc.log('Connected to server');
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp.expect (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1749:33)
-    at Parser.pp$3.parseObj (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3978:12)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3719:19)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
-    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
-    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
-2023-12-07T07:29:50.511Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js, message: Compile error: SyntaxError: /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js: await is a reserved word (26:28)
-  24 |         this.socket.on('chatMessage', (e) => {
-  25 |             cc.log(e)
-> 26 |             this.chatData = await this.loadData(e.message);
-     |                             ^
-  27 |             cc.log(this.chatData.name);
-  28 |         });
-  29 |     },
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp$3.checkReservedWord (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4347:10)
-    at Parser.pp$3.parseIdentifier (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4324:10)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3648:21)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
-    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3404:19)
-    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
-    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
-    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3367:23)
-2023-12-07T07:30:37.136Z - failed: load script [/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js] failed : ReferenceError: regeneratorRuntime is not defined
-    at /Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:28:52
-    at __define (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:81:6)
-    at /Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:101:13
-    at Object.<anonymous> (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:108:11)
-    at Object.<anonymous> (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:111:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-2023-12-07T07:30:56.803Z - failed: load script [/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js] failed : ReferenceError: regeneratorRuntime is not defined
-    at /Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:28:52
-    at __define (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:80:6)
-    at /Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:100:13
-    at Object.<anonymous> (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:107:11)
-    at Object.<anonymous> (/Users/user/Cocos/testChat/temp/quick-scripts/assets/Script/ChatForm/ReceiveChatManager.js:110:3)
-    at Module._compile (module.js:571:32)
-    at Object.Module._extensions..js (module.js:580:10)
-    at Module.load (module.js:488:32)
-    at tryModuleLoad (module.js:447:12)
-    at Function.Module._load (module.js:439:3)
-2023-12-07T07:34:49.265Z - warn: Script attached to "ChatRoom" is missing or invalid. Detailed information:
-Node path: "Canvas/ChatRoom"
-Script UUID: "e6a3ae0f-3284-4fc8-961a-c7f462199d76"
-Class ID: "e6a3a4PMoRPyJYax/RiGZ12"
-
-2023-12-07T07:55:53.928Z - failed: [db-task][sync-changes] Failed to import asset /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js, message: Compile error: SyntaxError: /Users/user/Cocos/testChat/assets/Script/ChatForm/ReceiveChatManager.js: Unexpected token (43:23)
-  41 | 
-  42 |     createChatText(nameUserData,imgNameData,chatMessage,soketID) {
-> 43 |         if(soketID === )
-     |                        ^
-  44 |         if (this.chatEditBox.string !== '') {
-  45 |             this.wordsInMessage = this.chatEditBox.string.split(" ");
-  46 |             const chatTextNode = cc.instantiate(this.chatTextFriend);
-    at Parser.pp$5.raise (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:4454:13)
-    at Parser.pp.unexpected (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:1761:8)
-    at Parser.pp$3.parseExprAtom (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3750:12)
-    at Parser.pp$3.parseExprSubscripts (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3494:19)
-    at Parser.pp$3.parseMaybeUnary (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3474:19)
-    at Parser.pp$3.parseExprOp (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3435:42)
-    at Parser.pp$3.parseExprOps (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3408:17)
-    at Parser.pp$3.parseMaybeConditional (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3381:19)
-    at Parser.pp$3.parseMaybeAssign (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3344:19)
-    at Parser.pp$3.parseExpression (/Applications/CocosCreator.app/Contents/Resources/app.asar/node_modules/babylon/lib/index.js:3306:19)
-2023-12-07T08:16:34.704Z - warn: [db-task][sync-changes] Backup unused meta file: db://assets/Script/ChatForm/SendChatManager.js.meta
-2023-12-07T08:27:03.651Z - warn: Script attached to "ChatRoom" is missing or invalid. Detailed information:
-Node path: "Canvas/ChatRoom"
-Script UUID: "e6a3ae0f-3284-4fc8-961a-c7f462199d76"
-Class ID: "e6a3a4PMoRPyJYax/RiGZ12"
-
+2023-12-08T09:32:50.403Z - normal: Load ~/.CocosCreator/settings.json
+2023-12-08T09:32:50.446Z - normal: Initializing Asset Database
+2023-12-08T09:32:50.448Z - normal: checking language setting...
+2023-12-08T09:32:50.448Z - normal: Language: en
+2023-12-08T09:32:50.935Z - success: preview server running at http://localhost:7457
+2023-12-08T09:32:50.947Z - success: protocol editor-framework registered
+2023-12-08T09:32:50.947Z - success: protocol app registered
+2023-12-08T09:32:50.947Z - success: protocol theme registered
+2023-12-08T09:32:50.947Z - success: protocol packages registered
+2023-12-08T09:32:50.947Z - success: protocol uuid registerred
+2023-12-08T09:32:50.947Z - success: protocol db registerred
+2023-12-08T09:32:50.947Z - success: protocol thumbnail registerred
+2023-12-08T09:32:50.947Z - success: protocol unpack registerred
+2023-12-08T09:32:50.948Z - success: protocol disable-commonjs registerred
+2023-12-08T09:32:52.392Z - normal: connected!
+2023-12-08T09:32:52.392Z - normal: Check project /Users/user/Cocos/testChat
+2023-12-08T09:32:52.394Z - normal: Initializing project /Users/user/Cocos/testChat
+2023-12-08T09:32:52.648Z - normal: Initializing Cocos2d
+2023-12-08T09:32:53.064Z - normal: Initializing engine extends
+2023-12-08T09:32:53.105Z - success: alipay-adapter loaded
+2023-12-08T09:32:53.121Z - success: asset-db-debugger loaded
+2023-12-08T09:32:53.124Z - success: baidu-adapter loaded
+2023-12-08T09:32:53.128Z - success: color-picker loaded
+2023-12-08T09:32:53.234Z - success: fb-audience-network loaded
+2023-12-08T09:32:53.263Z - success: fb-live-stream loaded
+2023-12-08T09:32:53.265Z - success: google-play-instant loaded
+2023-12-08T09:32:53.268Z - success: huawei-runtime loaded
+2023-12-08T09:32:53.416Z - success: cpk-publish loaded
+2023-12-08T09:32:53.417Z - success: jsb-adapter loaded
+2023-12-08T09:32:53.419Z - success: oppo-runtime loaded
+2023-12-08T09:32:53.429Z - success: package-manager loaded
+2023-12-08T09:32:53.501Z - success: qqplay-adapter loaded
+2023-12-08T09:32:53.502Z - success: runtime-dev-tools loaded
+2023-12-08T09:32:53.511Z - success: sdkbox loaded
+2023-12-08T09:32:53.520Z - success: tester loaded
+2023-12-08T09:32:53.529Z - success: ui-kit-preview-extra loaded
+2023-12-08T09:32:53.537Z - success: ui-kit-preview loaded
+2023-12-08T09:32:53.547Z - success: ui-kit loaded
+2023-12-08T09:32:53.550Z - success: vivo-runtime loaded
+2023-12-08T09:32:53.551Z - success: weapp-adapter loaded
+2023-12-08T09:32:53.551Z - success: xiaomi-adapter loaded
+2023-12-08T09:32:53.552Z - success: alipay-minigame loaded
+2023-12-08T09:32:53.589Z - success: assets loaded
+2023-12-08T09:32:53.598Z - success: builder loaded
+2023-12-08T09:32:53.763Z - success: cocos-services loaded
+2023-12-08T09:32:53.774Z - success: console loaded
+2023-12-08T09:32:53.798Z - success: fb-instant-games loaded
+2023-12-08T09:32:53.808Z - success: game-window loaded
+2023-12-08T09:32:53.808Z - success: google-instant-games loaded
+2023-12-08T09:32:53.819Z - success: hierarchy loaded
+2023-12-08T09:32:53.830Z - success: inspector loaded
+2023-12-08T09:32:53.831Z - success: keystore loaded
+2023-12-08T09:32:53.845Z - success: node-library loaded
+2023-12-08T09:32:53.846Z - success: package-asset loaded
+2023-12-08T09:32:53.847Z - success: preferences loaded
+2023-12-08T09:32:53.859Z - success: project-exporter loaded
+2023-12-08T09:32:53.870Z - success: project-importer loaded
+2023-12-08T09:32:53.881Z - success: project-settings loaded
+2023-12-08T09:32:53.894Z - success: scene loaded
+2023-12-08T09:32:53.895Z - success: simulator-debugger loaded
+2023-12-08T09:32:53.895Z - success: sprite-editor loaded
+2023-12-08T09:32:53.908Z - success: store loaded
+2023-12-08T09:32:53.921Z - success: timeline loaded
+2023-12-08T09:32:53.924Z - success: xiaomi-runtime loaded
+2023-12-08T09:32:56.479Z - info: Cocos Services load base data!
+2023-12-08T09:32:57.810Z - normal: Loading packages
+2023-12-08T09:32:57.813Z - normal: Watching packages
+2023-12-08T09:32:57.886Z - normal: Run Application

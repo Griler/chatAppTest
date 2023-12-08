@@ -7,7 +7,7 @@
 // Learn life-cycle callbacks:
 //  - [Chinese] https://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] https://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
-const io = require('socket.io-client');
+const io = require('Test');
 const constants = require("constants");
 cc.Class({
     extends: cc.Component,
@@ -24,8 +24,7 @@ cc.Class({
     // LIFE-CYCLE CALLBACKS:
 
     onLoad() {
-        this.socket = io('http://localhost:4000');
-        cc.log(this.socket.id)
+        this.socket = io.createSoketIo();
         this.wordsInMessage;
         this.data = {
             imgNameData: "",

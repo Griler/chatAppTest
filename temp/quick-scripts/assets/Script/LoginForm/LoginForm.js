@@ -13,7 +13,7 @@ cc._RF.push(module, 'ad105GH8bdOBaHlbv2Tgm64', 'LoginForm', __filename);
 // Learn life-cycle callbacks:
 //  - [Chinese] https://docs.cocos.com/creator/manual/zh/scripting/life-cycle-callbacks.html
 //  - [English] https://www.cocos2d-x.org/docs/creator/manual/en/scripting/life-cycle-callbacks.html
-var io = require('socket.io-client');
+var io = require('../ChatForm/Test');
 cc.Class({
     extends: cc.Component,
     properties: {
